@@ -1,0 +1,316 @@
+{
+  "stand": "2026-11-11",
+  "vorsitz_titel": "Besetzungen seit 1996",
+  "wahlen": [
+    {
+      "jahr": 1998,
+      "datum": "1998-09-27",
+      "ergebnis": 6.7,
+      "sitze": 47,
+      "rolle": "Regierung",
+      "vorsitz": "Gunda Röstel / Jürgen Trittin"
+    },
+    {
+      "jahr": 2002,
+      "datum": "2002-09-22",
+      "ergebnis": 8.6,
+      "sitze": 55,
+      "rolle": "Regierung",
+      "vorsitz": "Fritz Kuhn / Claudia Roth"
+    },
+    {
+      "jahr": 2005,
+      "datum": "2005-09-18",
+      "ergebnis": 8.1,
+      "sitze": 51,
+      "rolle": "Opposition",
+      "vorsitz": "Reinhard Bütikofer / Claudia Roth"
+    },
+    {
+      "jahr": 2009,
+      "datum": "2009-09-27",
+      "ergebnis": 10.7,
+      "sitze": 68,
+      "rolle": "Opposition",
+      "vorsitz": "Claudia Roth / Cem Özdemir"
+    },
+    {
+      "jahr": 2013,
+      "datum": "2013-09-22",
+      "ergebnis": 8.4,
+      "sitze": 63,
+      "rolle": "Opposition",
+      "vorsitz": "Claudia Roth / Cem Özdemir"
+    },
+    {
+      "jahr": 2017,
+      "datum": "2017-09-24",
+      "ergebnis": 8.9,
+      "sitze": 67,
+      "rolle": "Opposition",
+      "vorsitz": "Cem Özdemir / Simone Peter"
+    },
+    {
+      "jahr": 2021,
+      "datum": "2021-09-26",
+      "ergebnis": 14.8,
+      "sitze": 118,
+      "rolle": "Regierung",
+      "vorsitz": "Annalena Baerbock / Robert Habeck"
+    },
+    {
+      "jahr": 2025,
+      "datum": "2025-02-23",
+      "ergebnis": 11.6,
+      "sitze": 85,
+      "rolle": "Opposition",
+      "vorsitz": "Franziska Brantner / Felix Banaszak"
+    }
+  ],
+  "vorsitzende": [
+    {
+      "nr": 1,
+      "name": "Gunda Röstel / Jürgen Trittin",
+      "beginn": "1996-12-01",
+      "ende": "1998-12-01"
+    },
+    {
+      "nr": 2,
+      "name": "Gunda Röstel / Antje Radcke",
+      "beginn": "1998-12-01",
+      "ende": "2000-06-01"
+    },
+    {
+      "nr": 3,
+      "name": "Fritz Kuhn / Renate Künast",
+      "beginn": "2000-06-01",
+      "ende": "2001-03-09"
+    },
+    {
+      "nr": 4,
+      "name": "Fritz Kuhn / Claudia Roth",
+      "beginn": "2001-03-09",
+      "ende": "2002-12-08"
+    },
+    {
+      "nr": 5,
+      "name": "Reinhard Bütikofer / Angelika Beer",
+      "beginn": "2002-12-08",
+      "ende": "2004-10-02"
+    },
+    {
+      "nr": 6,
+      "name": "Reinhard Bütikofer / Claudia Roth",
+      "beginn": "2004-10-02",
+      "ende": "2008-11-15"
+    },
+    {
+      "nr": 7,
+      "name": "Claudia Roth / Cem Özdemir",
+      "beginn": "2008-11-15",
+      "ende": "2013-10-19"
+    },
+    {
+      "nr": 8,
+      "name": "Cem Özdemir / Simone Peter",
+      "beginn": "2013-10-19",
+      "ende": "2018-01-27"
+    },
+    {
+      "nr": 9,
+      "name": "Annalena Baerbock / Robert Habeck",
+      "beginn": "2018-01-27",
+      "ende": "2022-02-01"
+    },
+    {
+      "nr": 10,
+      "name": "Ricarda Lang / Omid Nouripour",
+      "beginn": "2022-02-01",
+      "ende": "2024-11-16"
+    },
+    {
+      "nr": 11,
+      "name": "Franziska Brantner / Felix Banaszak",
+      "beginn": "2024-11-16",
+      "ende": null
+    }
+  ],
+  "zeitleiste": [
+    {
+      "spur": "Rolle im Bund",
+      "label": "Rot-Grün",
+      "von": "1998-10",
+      "bis": "2005-11",
+      "status": "Regierung"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition",
+      "von": "2005-11",
+      "bis": "2021-12",
+      "status": "Opposition"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Ampel",
+      "von": "2021-12",
+      "bis": "2024-11",
+      "status": "Regierung"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Rot-Grün (Minderheit)",
+      "von": "2024-11",
+      "bis": "2025-05",
+      "status": "Regierung"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition",
+      "von": "2025-05",
+      "bis": null,
+      "status": "Opposition"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Röstel/Trittin",
+      "von": "1996-12",
+      "bis": "1998-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Röstel/Radcke",
+      "von": "1998-12",
+      "bis": "2000-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Kuhn/Künast",
+      "von": "2000-06",
+      "bis": "2001-03",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Kuhn/Roth",
+      "von": "2001-03",
+      "bis": "2002-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Bütikofer/Beer",
+      "von": "2002-12",
+      "bis": "2004-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Bütikofer/Roth",
+      "von": "2004-10",
+      "bis": "2008-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Roth/Özdemir",
+      "von": "2008-11",
+      "bis": "2013-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Özdemir/Peter",
+      "von": "2013-10",
+      "bis": "2018-01",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Baerbock/Habeck",
+      "von": "2018-01",
+      "bis": "2022-02",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Lang/Nouripour",
+      "von": "2022-02",
+      "bis": "2024-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Brantner/Banaszak",
+      "von": "2024-11",
+      "bis": null,
+      "status": "laufend"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "Die Zukunft ist grün",
+      "von": "2002-03",
+      "bis": "2020-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "„… zu achten und zu schützen …“",
+      "von": "2020-11",
+      "bis": null,
+      "status": "laufend"
+    }
+  ],
+  "belege": {
+    "wahlen": [
+      {
+        "name": "Deutscher Bundestag: Wahlergebnisse seit 1949",
+        "url": "https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692"
+      },
+      {
+        "name": "wahlrecht.de: Bundestagswahlen (Prozente und Sitze)",
+        "url": "https://www.wahlrecht.de/ergebnisse/bundestag.htm"
+      }
+    ],
+    "zeitleiste": [
+      {
+        "name": "tagesschau: Banaszak und Brantner wollen wieder kandidieren (27.09.2026, mit Korrektur zur Rolle 2024/25)",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-banaszak-brantner-bundesvorsitz-100.html"
+      },
+      {
+        "name": "Wikipedia: Bündnis 90/Die Grünen (Grundsatzprogramme 2002 und 2020)",
+        "url": "https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen"
+      },
+      {
+        "name": "Deutsche Welle: Grüner Aufbruch in die Mitte (22.11.2020)",
+        "url": "https://www.dw.com/de/meinung-gr%C3%BCner-aufbruch-in-die-mitte-der-gesellschaft-endg%C3%BCltig/a-55692290"
+      }
+    ],
+    "vorsitz": [
+      {
+        "name": "Bündnis 90/Die Grünen: Unser Bundesvorstand",
+        "url": "https://www.gruene.de/leute/unser-bundesvorstand"
+      },
+      {
+        "name": "Deutschlandfunk: Brantner und Banaszak wollen für zweite Amtszeit kandidieren (27.09.2026)",
+        "url": "https://www.deutschlandfunk.de/gruenen-vorsitzende-brantner-und-banaszak-wollen-fuer-zweite-amtszeit-kandidieren-100.html"
+      },
+      {
+        "name": "Wikipedia: Artikel der einzelnen Vorsitzenden (z. B. Reinhard Bütikofer, Simone Peter, Annalena Baerbock)",
+        "url": "https://de.wikipedia.org/wiki/Reinhard_B%C3%BCtikofer"
+      }
+    ]
+  },
+  "belege_hinweis": {
+    "wahlen": "Zweitstimmen. Sitze nach wahlrecht.de. Rolle: Regierung oder Opposition in der folgenden Wahlperiode (2021: Ampel, ab November 2024 rot-grüne Minderheitsregierung bis Mai 2025). Vorsitz: Doppelspitze am Wahltag.",
+    "zeitleiste": "Rolle im Bund nach Monaten gerundet. Grundsatzprogramm 2002 (März 2002, Berlin) nur nach Wikipedia belegt, nicht ausreichend belegt; 2020 (digitaler Parteitag im November 2020) nach Wikipedia und Deutscher Welle. Das Bundesprogramm von 1980 liegt vor dem dargestellten Zeitraum.",
+    "vorsitz": "Doppelspitze als eine Besetzung; wechselt eine Person, beginnt eine neue. Bis 2001 hießen die Ämter Bundessprecher. Amtsdaten nach den Wikipedia-Artikeln der Personen, nicht gegen Primärquellen geprüft. Tagesgenau belegt: 09.03.2001, 08.12.2002, 02.10.2004, 15.11.2008, 19.10.2013, 27.01.2018, 16.11.2024. Nur Monat belegt, Tag auf den Monatsersten gesetzt: Dezember 1996, Dezember 1998, Juni 2000, Februar 2022 (Wahl im Januar, Amtsantritt im Februar 2022). Neuwahl des Bundesvorstands auf dem Parteitag 04.–06.12.2026 angekündigt (tagesschau, Deutschlandfunk)."
+  },
+  "spuren": [
+    "Rolle im Bund",
+    "Vorsitz",
+    "Grundsatzprogramm"
+  ]
+}
