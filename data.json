@@ -1,5 +1,5 @@
 {
-  "erstellt": "2026-11-11T13:00+01:00",
+  "erstellt": "2026-11-16T09:45+02:00",
   "partei": "Grüne",
   "ebenen": [
     {
@@ -23,9 +23,9 @@
       },
       "wahlergebnis": null,
       "wahltrend": {
-        "wert": 15.2,
-        "delta": null,
-        "stand": "2026-11-10"
+        "wert": 15.5,
+        "delta": 0.3,
+        "stand": "2026-11-14"
       },
       "umfragen": {
         "stand": "2026-11-11T12:30:00+01:00",
